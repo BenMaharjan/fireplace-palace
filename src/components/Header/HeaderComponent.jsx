@@ -12,7 +12,6 @@ export default function HeaderComponent({ title }) {
     console.log(menu);
 
     setHideShow(!hideShow);
-
     console.log(hideShow);
   }
   return (
