@@ -10,9 +10,7 @@
   .navContainer {
     display: none;
   }
-  .headerSub {
-    flex: 1;
-  }
+
   .fullPageDesktopMenuList {
     display: flex;
     text-align: center;
@@ -51,12 +49,10 @@
     flex-direction: row;
   }
 
-  .headerSub {
+  .MainHeader {
     flex: 1;
-  }
-
-  .TextPhoneNumber {
-    font-size: 1rem;
+    font-size: 1.8rem;
+    text-align: center;
   }
 
   .phoneNumber {

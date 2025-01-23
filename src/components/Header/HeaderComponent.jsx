@@ -17,9 +17,7 @@ export default function HeaderComponent({ title }) {
   return (
     <>
       <header className={styles.headerContainer}>
-        {/* <h1 className="TextPhoneNumber headerSub">{title}</h1> */}
-        {/* <div className={styles.headerDesktop}> */}
-        <h1 className={`${styles.TextPhoneNumber} ${styles.headerSub}`}>
+        <h1 className={`${styles.MainHeader} ${styles.headerSub}`}>
           {title}
         </h1>
         <ul className={`${styles.fullPageDesktopMenuList}`}>
@@ -30,7 +28,6 @@ export default function HeaderComponent({ title }) {
             <Link href="/founder">Founder</Link>
           </li>
         </ul>
-        {/* </div> */}
 
         <section>
           <article>

@@ -50,10 +50,10 @@ export default function HowItWorks() {
               <div className={styles.heroHeading}>
                 <b>Discover the</b>
               </div>
-              <br />
               <div className={styles.heroHeading}>
                 <b>Perfect Fireplace ...</b>
               </div>
+              <br />
               <span>
                 <Link href="/Booking" className={styles.TextPhoneNumber}>
                   Book consultation
@@ -67,7 +67,7 @@ export default function HowItWorks() {
         </section>
 
         <section className={styles.howItWorksContainer}>
-          <h1>How is works</h1>
+          <h1>How it works</h1>
           <div className={styles.destopHowItWorks}>
             {articles.map((articleData, index) => (
               <ArticleComponent key={index} {...articleData} />
