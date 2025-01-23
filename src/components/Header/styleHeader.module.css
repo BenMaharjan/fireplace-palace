@@ -49,7 +49,7 @@
     flex-direction: row;
   }
 
-  .MainHeader {
+  .mainHeader {
     flex: 1;
     font-size: 1.8rem;
     text-align: center;
@@ -65,6 +65,8 @@
   }
 
   .btnReverse {
+    margin-top: 10px;
+    margin-right: 10px;
     display: flex;
     justify-content: flex-end;
   }
@@ -74,17 +76,15 @@
   }
 
   .fullPageMenu {
-    position: fixed;
+    position: absolute;
     top: 0;
     left: 0;
-    width: 100vw;
+    width: 50vw;
     height: 100vh;
     background-color: #f0911a;
     display: flex;
     flex-direction: column;
-    /* justify-content: center; */
-    /* align-items: center; */
-    z-index: 1000;
+    z-index: 1;
   }
 
   .fullPageMenuList {

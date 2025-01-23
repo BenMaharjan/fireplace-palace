@@ -17,7 +17,7 @@ export default function HeaderComponent({ title }) {
   return (
     <>
       <header className={styles.headerContainer}>
-        <h1 className={`${styles.MainHeader} ${styles.headerSub}`}>
+        <h1 className={`${styles.mainHeader}`}>
           {title}
         </h1>
         <ul className={`${styles.fullPageDesktopMenuList}`}>
@@ -39,7 +39,7 @@ export default function HeaderComponent({ title }) {
                   <button onClick={handleClick}>
                     <Image
                       src="/assets/menu-open-button.png"
-                      alt="phonecall"
+                      alt="menuButton"
                       width={10}
                       height={10}
                     ></Image>
@@ -63,8 +63,8 @@ export default function HeaderComponent({ title }) {
                         <Image
                           src="/assets/menu-close-button.png"
                           alt="cross"
-                          width={20}
-                          height={20}
+                          width={10}
+                          height={10}
                         />
                       </button>
                     </div>
