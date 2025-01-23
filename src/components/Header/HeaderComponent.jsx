@@ -48,7 +48,7 @@ export default function HeaderComponent({ title }) {
               )}
               <div
                 className={
-                  menu ? `${styles.fullPageMenu} ${styles.menuList}` : ""
+                  menu ? `${styles.fullPageMenu}` : ""
                 }
               >
                 {/* If menu clicked (true) - add styles for orange menu to appear */}

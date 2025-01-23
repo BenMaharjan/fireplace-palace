@@ -7,3 +7,7 @@ Orange on Top with heading and button color too.
 Background color of both fieldset should be grey .
 Success message text align center and color should be green.
 Header and Footer.
+
+menu button
+  - change from full screen on click to half screen
+  - change menu to cover right side of screen rather than left side to mtach positon of burger menu button
