@@ -11,3 +11,5 @@ Header and Footer.
 menu button
   - change from full screen on click to half screen
   - change menu to cover right side of screen rather than left side to mtach positon of burger menu button
+  - add box shadow to drop down menu
+ 
