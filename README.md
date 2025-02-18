@@ -1,5 +1,7 @@
 ## Important Note: This website is currently configured for mobile view. Please view in mobile view for optimal results
 
+
+
 <a href="https://fireplace-palace-fpfkitdhu-benmaharjan-hotmailcous-projects.vercel.app/">
   <img src="https://raw.githubusercontent.com/BenMaharjan/fireplace-palace/main/public/assets/Fireplace%20Palace%20Banner.png" alt="Fireplace Palace Banner" />
 </a>
