@@ -10,6 +10,7 @@ Header and Footer.
 
 menu button
   - change from full screen on click to half screen
-  - change menu to cover 25% full width
+  - change menu to cover 25% full width and add opacity
+  - make menu have a slow drop down effect
 
  
