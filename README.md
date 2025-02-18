@@ -1,36 +1,19 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
 
-First, run the development server:
+## Client Brief
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Our clients, Mike and Mandy, approached us with a project proposal. They were seeking a landing page website to help generate new leads for their fireplace business. The initial brief outlined a basic home page with the potential for a consultation booking form.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+As discussions progressed, the brief was refined to include multiple pages: a Home page and an About Us page. 
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Finally, Mike and Mandy requested the implementation of a consultation form to collect information from potential leads.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Our Solution
 
-## Learn More
+Our approach began with the development of an initial boilerplate using pure HTML and CSS. After completing this prototype, we presented it to Mike and Mandy for approval, receiving their go-ahead to proceed.
 
-To learn more about Next.js, take a look at the following resources:
+With their approval secured, we immediately began porting our HTML and CSS into a React application using Vite. We chose Vite for its efficiency in setting up React apps, appreciating its low-bloat configuration and rapid response times.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Upon completion of the React version, we again presented our creation to Mike and Mandy for feedback. As is often the case in client work, they had a change of mind. However, we were prepared for this eventuality. The clients now expressed a desire for a consultation booking form capable of collecting potential customer data and storing it for future use.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+To meet this new requirement, we converted our Vite app to a Next.js application. This allowed us to take advantage of Next.js's directory-based routing for pages and layouts, as well as its directory-based API routes for handling form submission requests . We implemented a system where each POST request would receive the details from the submission form and update a bookingData.json file accordingly.
