@@ -1,4 +1,4 @@
-
+![Fireplace Palace] https://github.com/BenMaharjan/fireplace-palace/blob/main/public/assets/Fireplace%20Palace%20Banner.png
 
 ## Client Brief
 
