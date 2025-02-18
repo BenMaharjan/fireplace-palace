@@ -1,6 +1,8 @@
 ![Fireplace Palace](https://github.com/BenMaharjan/fireplace-palace/blob/main/public/assets/Fireplace%20Palace%20Banner.png)
 
-## Client Brief
+click on banner and visit the our website!
+
+## Client Briefbanner
 
 Our clients, Mike and Mandy, approached us with a project proposal. They were seeking a landing page website to help generate new leads for their fireplace business. The initial brief outlined a basic home page with the potential for a consultation booking form.
 
