@@ -37,7 +37,7 @@ export default function HowItWorks() {
             <article>
               <Image
                 className={styles.heroImage}
-                src="/assets/hero-Desktop.png"
+                src="/assets/hero-desktop.png"
                 alt="phonecall"
                 width={400}
                 height={400}
