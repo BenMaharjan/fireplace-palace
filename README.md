@@ -3,7 +3,7 @@
 
 
 
-<a href="https://fireplace-palace-fpfkitdhu-benmaharjan-hotmailcous-projects.vercel.app/">
+<a href="https://fireplace-palace-5ng525r5k-benmaharjan-hotmailcous-projects.vercel.app//">
   <img src="https://raw.githubusercontent.com/BenMaharjan/fireplace-palace/main/public/assets/Fireplace%20Palace%20Banner.png" alt="Fireplace Palace Banner" />
 </a>
 <br>
