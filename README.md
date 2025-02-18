@@ -1,4 +1,4 @@
-<a href="https://fireplace-palace-fpfkitdhu-benmaharjan-hotmailcous-projects.vercel.app/"><img src="./assets/Fireplace Palace Banner.png">
+<a href="https://fireplace-palace-fpfkitdhu-benmaharjan-hotmailcous-projects.vercel.app/"><img src="(https://github.com/BenMaharjan/fireplace-palace/blob/main/public/assets/Fireplace%20Palace%20Banner.png)">  
 click on banner and visit the our website!
 
 ## Client Briefbanner
