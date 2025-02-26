@@ -9,7 +9,7 @@
 <br>
 <i>click on the banner and visit our website!</i>
 
-## Client Briefbanner
+## Client Brief
 
 Our clients, Mike and Mandy, approached us with a project proposal. They were seeking a landing page website to help generate new leads for their fireplace business. The initial brief outlined a basic home page with the potential for a consultation booking form.
 
