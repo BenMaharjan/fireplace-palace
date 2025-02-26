@@ -7,7 +7,7 @@
   <img src="https://raw.githubusercontent.com/BenMaharjan/fireplace-palace/main/public/assets/Fireplace%20Palace%20Banner.png" alt="Fireplace Palace Banner" />
 </a>
 <br>
-<i>click on banner and visit the our website!</i>
+<i>click on the banner and visit our website!</i>
 
 ## Client Briefbanner
 
